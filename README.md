@@ -1,9 +1,10 @@
-Michal Chorobik (0937145)
-mchorobi@mail.ouguelph.ca 
+Michal Chorobik
 March 13,2016
 
+
+
 Compilation:
-Run the make command
+Run the make command (it automatically executes it from within the make file)
 
 to execute the program run
 ./run ../assets/input.txt
