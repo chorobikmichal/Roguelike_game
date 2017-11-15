@@ -2,7 +2,7 @@ Michal Chorobik
 
 March 13,2016
 
-# 2d adventure roguelike game written in C
+# 2d adventure Roguelike Game written in C
 
 - The game’s objective is to collect as much gold as possible
 - The player faces different challenges such as interacting with monsters as they manoeuvre through different rooms and hallways
