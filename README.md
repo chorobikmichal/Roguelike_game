@@ -30,7 +30,7 @@ like big gold or the character to check if they would print more then once which
 Also i put multiple doors in each room to see if they would print and work propertly. Lastly I
 printed the character in a room other then the first one to check if the teleportation from door to door would work.
 
-Example of game's map instructions:
+##Example of game's map instructions:
 10X14 de4 dw9 ds8 g8,7 g4,1 G4,2 g2,2
 13X16 dw21 w5,4 p2,2
 31X22 dn5 p9,2 de7 M4,12 g3,1 W8,8 W9,9 w3,3
@@ -38,10 +38,10 @@ Example of game's map instructions:
 23X11 dw3 a5,8 z8,4
 16X24 dw18 ds3 p10,10
 
-More screenshots:
+##More screenshots:
 ![rogue-screen2](https://user-images.githubusercontent.com/24882037/32814917-386f826c-c97f-11e7-91cd-817fc5c6afcd.png)
 ![rogue-screen1](https://user-images.githubusercontent.com/24882037/32814918-387b293c-c97f-11e7-91a4-bbdc489754a9.png)
 
-References:
+##References:
 Stackoverflow.com
 MAN pages
