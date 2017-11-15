@@ -1,4 +1,5 @@
 Michal Chorobik
+
 March 13,2016
 
 # 2d adventure roguelike game written in C
