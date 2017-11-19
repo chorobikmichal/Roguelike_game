@@ -18,14 +18,20 @@ Once the game is ran and the board appears use w, a, s and d keys to control the
 
 ## Example of game's map instructions:
 
-*10X14* - example of a rooms dimentions
-*de2* - means door on east side of the room 2 positions from the top
-*m4,4* - means its a monster
-*a8,8* - stairs(walking onto them will end the game)
-*g2,2* - gold
-*h6,6* - player will appear and start the game in that position
+**10X14** - example of a rooms dimentions
 
-*10X10 de2 ds2 dn4 dw7 g2,2 m4,4 h6,6 a8,8*
+**de2** - means door on east side of the room 2 positions from the top
+
+**m4,4** - means its a monster
+
+**a8,8** - stairs(walking onto them will end the game)
+
+**g2,2** - gold
+
+**h6,6** - player will appear and start the game in that position
+
+
+**10X10 de2 ds2 dn4 dw7 g2,2 m4,4 h6,6 a8,8**
 14X14 de6 dw3 M6,6 p1,1 p1,2 p1,3
 16X12 de3 ds6 m5,5 w1,1 W9,9 e10,10 w10,11 w11,10 w11,11
 16X16 de4 ds8 z2,4 g1,1 g1,2 g1,3 g1,4 G6,6
