@@ -20,12 +20,12 @@ Once the game is ran and the board appears use w, a, s and d keys to control the
 
 **10X14** - example of a rooms dimentions<br />
 **de2** - means door on east side of the room 2 positions from the top<br />
-**m4,4** - means its a monster<br />
-**a8,8** - stairs(walking onto them will end the game)<br />
 **g2,2** - gold<br />
+**m4,4** - means its a monster<br />
 **h6,6** - player will appear and start the game in that position<br />
+**a8,8** - stairs(walking onto them will end the game)<br />
 
-**10X10 de2 ds2 dn4 dw7 g2,2 m4,4 h6,6 a8,8**<br />
+**10X10 de2** ds2 dn4 dw7 **g2,2 m4,4 h6,6 a8,8**<br />
 14X14 de6 dw3 M6,6 p1,1 p1,2 p1,3<br />
 16X12 de3 ds6 m5,5 w1,1 W9,9 e10,10 w10,11 w11,10 w11,11<br />
 16X16 de4 ds8 z2,4 g1,1 g1,2 g1,3 g1,4 G6,6<br />
