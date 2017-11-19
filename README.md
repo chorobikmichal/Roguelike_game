@@ -1,4 +1,4 @@
-# 2d adventure Roguelike Game
+# Adventure Roguelike Game
 
 - The game’s objective is to collect as much gold as possible. 
 - The player faces different challenges such as interacting with monsters as they manoeuvre through different rooms and hallways.
