@@ -7,6 +7,7 @@
 - The player can cause more damage when fighting with monsters by picking up weapons.
 - Once the player dies or goes on the stairs the game will end and all the statistics will be displayed.
 
+
 ![gggg](https://user-images.githubusercontent.com/24882037/32814735-4766e932-c97e-11e7-9d7c-e64b32e83164.gif)
 
 ## Compilation:
