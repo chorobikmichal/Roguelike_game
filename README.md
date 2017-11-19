@@ -24,7 +24,7 @@ Once the game is ran and the board appears use w, a, s and d keys to control the
 23X11 dw3 a5,8 z8,4
 16X24 dw18 ds3 p10,10
 
-## screenshots:
+## Screenshots:
 
 ![rogue-screen2](https://user-images.githubusercontent.com/24882037/32814917-386f826c-c97f-11e7-91cd-817fc5c6afcd.png)
 
