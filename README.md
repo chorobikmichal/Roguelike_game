@@ -17,12 +17,20 @@ You can create your own map. Every element's location can be customized through 
 Once the game is ran and the board appears use w, a, s and d keys to control the character printed on the screen and interact with the game. You can press q to quit at any point.
 
 ## Example of game's map instructions:
-10X14 de4 dw9 ds8 g8,7 g4,1 G4,2 g2,2
-13X16 dw21 w5,4 p2,2
-31X22 dn5 p9,2 de7 M4,12 g3,1 W8,8 W9,9 w3,3
-9X20 ds1 de6 W8,8 h6,5
-23X11 dw3 a5,8 z8,4
-16X24 dw18 ds3 p10,10
+
+*10X14* - example of a rooms dimentions
+*de2* - means door on east side of the room 2 positions from the top
+*m4,4* - means its a monster
+*a8,8* - stairs(walking onto them will end the game)
+*g2,2* - gold
+*h6,6* - player will appear and start the game in that position
+
+*10X10 de2 ds2 dn4 dw7 g2,2 m4,4 h6,6 a8,8*
+14X14 de6 dw3 M6,6 p1,1 p1,2 p1,3
+16X12 de3 ds6 m5,5 w1,1 W9,9 e10,10 w10,11 w11,10 w11,11
+16X16 de4 ds8 z2,4 g1,1 g1,2 g1,3 g1,4 G6,6
+18X18 de5 dn2 ds2 m6,6 m10,10
+15X15 de7 dw3 z4,5 m8,8 m12,12
 
 ## Screenshots:
 
