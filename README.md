@@ -16,7 +16,7 @@ To run this program run the make command in its directory. The make file compile
 You can create your own map. Every element's location can be customized through input.txt file. 
 Once the game is ran and the board appears use w, a, s and d keys to control the character printed on the screen and interact with the game. You can press q to quit at any point.
 
-## Example of game's instructions(input.txt):
+## Example of game's instructions (input.txt):
 
 **10X14** - example of a rooms dimentions<br />
 **de2** - means door on east side of the room 2 positions from the top<br />
